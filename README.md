@@ -21,3 +21,10 @@ Create visualizations for each of the KPIs and metrics. For example, you could u
 Arrange the visualizations on the dashboard in a way that tells a clear and compelling story about the call centre’s performance. Include slicers and filters to allow for interactive exploration of the data.
 ## Review and Refine: 
 Review the dashboard with you and refine it based on your feedback to ensure it meets your needs.
+
+# Usage
+1. Clone or download the repository to your local machine.
+2. Open the `.xlsx` files to view the datasets.
+3. Open the `.pbix` file in Power BI Desktop to view the dashboards.
+4. Refer to the `README.md` file for additional information about the project.
+
