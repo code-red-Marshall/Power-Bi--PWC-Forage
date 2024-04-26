@@ -23,6 +23,23 @@ Arrange the visualizations on the dashboard in a way that tells a clear and comp
 
 ![Screenshot 2024-04-26 105154](https://github.com/code-red-Marshall/Power-Bi--PWC-Forage/assets/82904501/3d126ed3-e616-4277-af7a-0cbe98a3fa21)
 
+## Task 3:
+
+# Power BI Dashboard for Telecom Customer Retention Analysis
+
+This project involves creating a Power BI dashboard that provides insights into customer retention for a telecom company. The dashboard aims to identify customers who are at risk of terminating their contracts and provides a clear visualization of customer data for easy understanding by the management.
+
+Task 3: Customer Retention Dashboard
+
+In this task, a Power BI dashboard was created to analyze customer retention. The dashboard provides insights into the following:
+
+- Customer retention trends
+- Identification of customers at risk of contract termination
+- Overall customer satisfaction and behavior
+
+The dashboard was created with a proactive approach to customer retention in mind, aiming to identify at-risk customers in advance rather than reacting after contract termination.
+
+
 ## Review and Refine: 
 Review the dashboard with you and refine it based on your feedback to ensure it meets your needs.
 
