@@ -53,7 +53,9 @@ The dashboard was created with a proactive approach to customer retention in min
 
 This project involves creating a Power BI dashboard that provides insights into workforce diversity and inclusion within a telecom company. The dashboard aims to help the Human Resources department improve gender balance at the executive management level.
 
-## Task 4: Workforce Diversity and Inclusion Dashboard
+Task 4: Workforce Diversity and Inclusion Dashboard
+
+![Screenshot 2024-04-26 120136](https://github.com/code-red-Marshall/Power-Bi--PWC-Forage/assets/82904501/6c1de7c1-2555-45c6-bef8-70ed47867d5a)
 
 In this task, a Power BI dashboard was created to analyze workforce diversity and inclusion. The dashboard provides insights into the following:
 
@@ -67,9 +69,11 @@ In this task, a Power BI dashboard was created to analyze workforce diversity an
 
 The dashboard was created with a focus on improving gender balance at the executive management level and promoting diversity and inclusion within the company.
 
+![Screenshot 2024-04-26 120727](https://github.com/code-red-Marshall/Power-Bi--PWC-Forage/assets/82904501/bb919a8f-d19d-436e-993b-475501c44a1d)
+
 To use this dashboard, open the Power BI file in Power BI Desktop. The dashboard can be interacted with to explore different aspects of the data.
 
-
+![Screenshot 2024-04-26 120838](https://github.com/code-red-Marshall/Power-Bi--PWC-Forage/assets/82904501/1b89287d-f03f-43aa-80a8-c290cd70dbcc)
 
 ## Review and Refine: 
 Review the dashboard with you and refine it based on your feedback to ensure it meets your needs.
