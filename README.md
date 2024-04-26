@@ -37,7 +37,38 @@ In this task, a Power BI dashboard was created to analyze customer retention. Th
 - Identification of customers at risk of contract termination
 - Overall customer satisfaction and behavior
 
+## Churn Analysis
+
+![Screenshot 2024-04-26 114325](https://github.com/code-red-Marshall/Power-Bi--PWC-Forage/assets/82904501/8632dc62-6212-4263-a6fd-cbed02a2d13a)
+
+## Customer Risk Analysis
+
+![Screenshot 2024-04-26 114348](https://github.com/code-red-Marshall/Power-Bi--PWC-Forage/assets/82904501/5d22d091-ce4d-4c1c-8d43-95965d39c0de)
+
 The dashboard was created with a proactive approach to customer retention in mind, aiming to identify at-risk customers in advance rather than reacting after contract termination.
+
+## Task 4
+
+# Power BI Dashboard for Telecom Workforce Diversity and Inclusion Analysis
+
+This project involves creating a Power BI dashboard that provides insights into workforce diversity and inclusion within a telecom company. The dashboard aims to help the Human Resources department improve gender balance at the executive management level.
+
+## Task 4: Workforce Diversity and Inclusion Dashboard
+
+In this task, a Power BI dashboard was created to analyze workforce diversity and inclusion. The dashboard provides insights into the following:
+
+- Number of men and women in the workforce
+- Number of leavers
+- Percentage of employees promoted in FY21
+- Percentage of women promoted
+- Percentage of hires who are men and women
+- Turnover percentage
+- Average performance rating for men and women
+
+The dashboard was created with a focus on improving gender balance at the executive management level and promoting diversity and inclusion within the company.
+
+To use this dashboard, open the Power BI file in Power BI Desktop. The dashboard can be interacted with to explore different aspects of the data.
+
 
 
 ## Review and Refine: 
